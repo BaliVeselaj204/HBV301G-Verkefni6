@@ -8,7 +8,7 @@ lesenda. Þetta er yfirlit; ekki þarf fullbúna SRS-skýrslu.
 
 | SRS-kafli eða undirkafli | Auðkenni og tenglar í kröfuskjöl | Rök fyrir staðsetningu og þörf lesenda |
 | --- | --- | --- |
-| <kafli> | <auðkenni og tenglar> | <rökstuðningur> |
+| 2.2 ökutækjastjórnun| [FR-2.2.1](../HBV301G-Verkefni6/requirements/FR-2.2.1.md) | Krafan fjallar um tengingu ökutækja við notandareikninga og á því heima undir ökutækjastjórnun |
 
 ## Tengdar upplýsingar
 

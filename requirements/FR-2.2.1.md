@@ -11,7 +11,7 @@ FR-2.2.1
 [FR-2.2.1](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/functional_requirement.md)
 
 ## SRS-staðsetning
-<kafli eða undirkafli> – [SRS-yfirlit](../SRS-yfirlit.md)
+2.2 ökutækjastjórnun – [SRS-yfirlit](../SRS-yfirlit.md)
 
 ## Krafa eftir yfirferð
 Kerfið skal tengja skráningarnúmer ökutækis við notendareikning þess notanda sem skráði ökutækið
