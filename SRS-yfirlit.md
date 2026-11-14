@@ -8,7 +8,7 @@ lesenda. Þetta er yfirlit; ekki þarf fullbúna SRS-skýrslu.
 
 | SRS-kafli eða undirkafli | Auðkenni og tenglar í kröfuskjöl | Rök fyrir staðsetningu og þörf lesenda |
 | --- | --- | --- |
-| <kafli> | <auðkenni og tenglar> | <rökstuðningur> |
+| 2.3 Greiðslustjórnun | [FR-2.2.2](../HBV301G-Verkefni6/requirements/FR-2.2.2.md) | Krafan fjallar um stofnun greiðslubeiðna og tryggir að greiðslubeiðni sé stofnuð fyrir réttan notanda og rétta upphæð |
 
 ## Tengdar upplýsingar
 
