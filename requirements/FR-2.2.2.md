@@ -25,7 +25,7 @@ Bali Nói Veselaj
 
 ## Prófunartilvik
 
-### <einkvæmt auðkenni prófs, t.d. PT-FR-03-01>
+### PT-FR-2.2.2
 **Krafa:** FR-2.2.2
 **Tegund:** venjulegt
 **Forsendur og upphafsástand:** Notandi er skráður inn og skráningasvæði ökutækis.
