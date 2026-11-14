@@ -21,7 +21,7 @@ Bali Nói Veselaj
 
 ## Prófunartilvik
 
-### <einkvæmt auðkenni prófs, t.d. PT-FR-03-01>
+### PT-FR-2.2.1
 **Krafa:** FR-2.2.1
 **Tegund:** venjulegt
 **Forsendur og upphafsástand:** Notandi er með virkan notendareikning og notandi hefur verið skráður í kerfið
