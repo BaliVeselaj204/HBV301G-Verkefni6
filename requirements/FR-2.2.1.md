@@ -21,7 +21,7 @@ Bali Nói Veselaj
 
 ## Prófunartilvik
 
-### PT-FR-2.2.1
+### PT-FR-2.2.1-01 – Skráning ökutækis á notandareikning
 **Krafa:** FR-2.2.1
 **Tegund:** venjulegt
 **Forsendur og upphafsástand:** Notandi er með virkan notendareikning og notandi hefur verið skráður í kerfið
