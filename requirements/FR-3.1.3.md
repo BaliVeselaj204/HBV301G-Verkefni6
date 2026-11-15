@@ -22,8 +22,8 @@ Bali Nói Veselaj
 ## Prófunartilvik
 
 ### PT-FR-3.1.3
-**Krafa:** FR-3.1.3  
-**Tegund:** Venjulegt  
-**Forsendur og upphafsástand:** Ökutæki er skráð á eiganda og eigandinn hefur aðgang að pósthólfi sínu á Ísland.is.  
-**Aðgerð eða inntak:** Ný talning er stofnuð fyrir ökutækið.  
+**Krafa:** FR-3.1.3
+**Tegund:** Venjulegt
+**Forsendur og upphafsástand:** Ökutæki er skráð á eiganda og eigandinn hefur aðgang að pósthólfi sínu á Ísland.is.
+**Aðgerð eða inntak:** Ný talning er stofnuð fyrir ökutækið.
 **Vænt niðurstaða:** Kerfið sendir tilkynningu í pósthólf skráðs eiganda á Ísland.is innan 5 mínútna frá stofnun talningarinnar.
