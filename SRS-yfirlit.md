@@ -8,6 +8,7 @@ lesenda. Þetta er yfirlit; ekki þarf fullbúna SRS-skýrslu.
 
 | SRS-kafli eða undirkafli | Auðkenni og tenglar í kröfuskjöl | Rök fyrir staðsetningu og þörf lesenda |
 | --- | --- | --- |
+| 2.2 ökutækjastjórnun| [FR-2.2.1](../HBV301G-Verkefni6/requirements/FR-2.2.1.md) | Krafan fjallar um tengingu ökutækja við notandareikninga og á því heima undir ökutækjastjórnun |
 | 3.1 Tilkynningar | [FR-3.1.3](https://github.com/BaliVeselaj204/SAFN/blob/main/requirements/FR-3.1.3.md) | Safnar saman kröfum um tilkynningar til eigenda ökutækja, þar á meðal afhendingu tilkynninga og tímamörk |
 
 ## Tengdar upplýsingar
