@@ -9,11 +9,10 @@ lesenda. Þetta er yfirlit; ekki þarf fullbúna SRS-skýrslu.
 | SRS-kafli eða undirkafli | Auðkenni og tenglar í kröfuskjöl | Rök fyrir staðsetningu og þörf lesenda |
 | --- | --- | --- |
 | 1.1 Skráning við komu | [FR-1.1.3](requirements/FR-1.1.3.md) | Krafan á heima undir „Skráning við komu“ því hún lýsir hvenær virk talning er stofnuð og hvaða upplýsingar eru skráðar við komu ökutækis. |
-| 1.2 Skráning við brottför | [FR-1.2.2](../HBV301G-Verkefni6/requirements/FR-1.2.2.md) | Krafan á heima hér því hún lýsir því hvernig kerfið notar skráningarnúmer ökutækis til að finna virka talningu við brottför. |
+| 1.2 Skráning við brottför | [FR-1.2.2](../HBV301G-Verkefni6/requirements/FR-1.2.2.md), [FR-1.2.3](../HBV301G-Verkefni6/requirements/FR-1.2.3.md) | Krafan á heima hér því hún lýsir því hvernig kerfið notar skráningarnúmer ökutækis til að finna virka talningu við brottför. |
 | 2.2 ökutækjastjórnun| [FR-2.2.1](../HBV301G-Verkefni6/requirements/FR-2.2.1.md) | Krafan fjallar um tengingu ökutækja við notandareikninga og á því heima undir ökutækjastjórnun |
 | 2.3 Greiðslustjórnun | [FR-2.1.2](../HBV301G-Verkefni6/requirements/FR-2.1.2.md), [FR-2.2.2](../HBV301G-Verkefni6/requirements/FR-2.2.2.md) | Krafan fjallar um stofnun greiðslubeiðna og tryggir að greiðslubeiðni sé stofnuð fyrir réttan notanda og rétta upphæð |
-
-
+| 3.1 Tilkynningar | [FR-3.1.3](https://github.com/BaliVeselaj204/HBV301G-Verkefni6/blob/main/requirements/FR-3.1.3.md) | Safnar saman kröfum um tilkynningar til eigenda ökutækja, þar á meðal afhendingu tilkynninga og tímamörk |
 
 
 ## Tengdar upplýsingar
