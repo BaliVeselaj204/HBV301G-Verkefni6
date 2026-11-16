@@ -105,9 +105,9 @@ Tengill í safn verkefnis 1: [Verkefni-1](https://github.com/BaliVeselaj204/HBV3
 
 ## Lokayfirferð hóps
 
-- [ x] Átta upphaflegar kröfur eiga hver sitt issue með óbreyttum texta, mati og rökstuðningi.
-- [ x] Allar kröfur eftir yfirferð hafa stöðugt auðkenni, rekjanleika og prófunartilvik.
-- [ x] Tvær kröfur hafa hvor sitt viðbótarpróf fyrir undantekningu eða jaðartilvik.
-- [ x] SRS-yfirlit sýnir staðsetningu allra krafna og tengd gögn eða sýnilegar eyður.
-- [ x] Allir hafa tekið þátt í ritun og efnislegri rýni; allar kröfur eru rýndar af öðrum en höfundi.
-- [ x] Formathuganir standast og rýni er samþykkt áður en PR eru sameinuð.
+- [x] Átta upphaflegar kröfur eiga hver sitt issue með óbreyttum texta, mati og rökstuðningi.
+- [x] Allar kröfur eftir yfirferð hafa stöðugt auðkenni, rekjanleika og prófunartilvik.
+- [x] Tvær kröfur hafa hvor sitt viðbótarpróf fyrir undantekningu eða jaðartilvik.
+- [x] SRS-yfirlit sýnir staðsetningu allra krafna og tengd gögn eða sýnilegar eyður.
+- [x] Allir hafa tekið þátt í ritun og efnislegri rýni; allar kröfur eru rýndar af öðrum en höfundi.
+- [x] Formathuganir standast og rýni er samþykkt áður en PR eru sameinuð.
