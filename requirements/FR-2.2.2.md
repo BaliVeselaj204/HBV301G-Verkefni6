@@ -4,11 +4,6 @@
 FR-2.2.2
 
 ## Yfirferðar-issue
-<!-- Setjið hér smellanlegan Markdown-tengil á yfirferðar-issue, t.d.:
-[Yfirferð kröfunnar – issue #12](https://github.com/HOPUR/SAFN/issues/12)
-Skiptið HOPUR, SAFN og 12 út fyrir rétt gildi. Notið heilan tengil;
-#12 eitt og sér verður ekki sjálfkrafa að issue-tengli í Markdown-skrá.
-Athugasemdin birtist aðeins í frumtexta skrárinnar, ekki í birtri útgáfu. -->
 [FR-2.2.2-issue](https://github.com/BaliVeselaj204/HBV301G-Verkefni6/issues/3)
 
 ## Uppruni
@@ -29,6 +24,6 @@ Bali Nói Veselaj
 **Krafa:** FR-2.2.2
 **Tegund:** venjulegt
 **Forsendur og upphafsástand:** Notandi er skráður inn og skráningasvæði ökutækis.
-**Aðgerð eða inntak:** Notandi skráir ökutæki á tilteknu skráningarsvæði.
+**Aðgerð eða inntak:** Stæðistími ökutækisins lýkur.
 **Vænt niðurstaða:** Kerfið stofnar greiðslubeiðni með þeirri upphæð sem gjaldskrá svæðisins segir til um fyrir þann sem
 skráði ökutækið.
