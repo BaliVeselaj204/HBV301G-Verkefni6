@@ -19,32 +19,11 @@ lesenda. Þetta er yfirlit; ekki þarf fullbúna SRS-skýrslu.
 
 ## Tengdar upplýsingar
 
-Taflan hér fyrir neðan hjálpar lesanda að finna bakgrunnsupplýsingar sem þarf
-til að skilja og túlka kröfurnar. Til dæmis getur krafa vísað til notendahlutverks,
-hugtaks eða viðskiptareglu sem er útskýrt annars staðar. Taflan sýnir hvar þær
-upplýsingar eru og hvaða kröfum þær tengjast. Hún dregur líka fram upplýsingar
-sem vantar eða þarf að skýra.
-
-Nýtið gögn sem þegar eru til, t.d. úr verkefni 1. Ekki þarf að skrifa þau upp
-aftur eða búa til nýtt skjal fyrir hverja röð. Fyllið töfluna út þannig:
-
-- Í **Staðsetning / auðkenni / tengill** setjið þið tengil á viðeigandi skjal,
-  kafla eða issue og tilgreinið auðkenni ef það er til.
-- Í **Tengsl við kröfur eða sýnileg eyða og eftirfylgni** tilgreinið þið hvaða
-  kröfum upplýsingarnar tengjast, með auðkennum, og hvernig þær hjálpa við
-  að skilja kröfurnar.
-- Ef nauðsynlegar upplýsingar vantar, skráið `TBD`, hvað vantar,
-  ábyrgðaraðila og næsta skref. Ef atriði á ekki við, skrifið „Á ekki við“
-  og rökstyðjið stuttlega.
-
-Til dæmis gæti röðin **Notendahlutverk** vísað í kafla í verkefni 1 og skýrt
-að þar sé hlutverkið „umsjónarmaður“ skilgreint, sem krafan FR-03 vísar til.
-
 | Upplýsingar | Staðsetning / auðkenni / tengill | Tengsl við kröfur eða sýnileg eyða og eftirfylgni |
 | --- | --- | --- |
-| Samhengi kerfisins | <tilvísun> | <tengsl eða TBD> |
-| Notendahlutverk | <tilvísun> | <tengsl eða TBD> |
-| Orðasafn | <tilvísun> | <tengsl eða TBD> |
-| Viðskiptareglur | <tilvísun> | <tengsl eða TBD> |
-| Gæðakröfur | <tilvísun> | <tengsl eða TBD> |
-| Forsendur | <tilvísun> | <tengsl eða TBD> |
+| Samhengi kerfisins | [Verkefni 1 – SRS, 1.2 Umfang og mörk kerfisins](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/SRS.md#12-umfang-og-m%C3%B6rk-kerfisins) | Afmarkar sjálfvirka skráningu komu og brottfarar (FR-1.1.3, FR-1.2.2 og FR-1.2.3) og skýrir hvar ábyrgð kerfisins endar gagnvart greiðsluþjónustu (FR-2.2.2). |
+| Notendahlutverk | [Verkefni 1 – SRS, 2.1 Notendahópar](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/SRS.md#21-notendah%C3%B3par) og [UR-3.1](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/user_requirement.md#ur-31) | SRS lýsir hlutverkum ökumanns og rekstraraðila. UR-3.1 skýrir þörf skráðs eiganda fyrir tilkynningu þegar ökutæki hans er lagt í gjaldskylt stæði (FR-3.1.3). |
+| Orðasafn | [Verkefni 1 – SRS, 1.3 Skilgreiningar](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/SRS.md#13-skilgreiningar) | Skilgreinir hugtökin *stæðistími* og *gjaldsvæði*, sem eru notuð við útreikning stæðistíma (FR-2.1.1) og val á gjaldskrá (FR-2.1.2). |
+| Viðskiptareglur | [BRG-1](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/business_rule.md#brg-1) og [BRG-2](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/business_rule.md#brg-2) | BRG-1 skýrir hvers vegna gjaldsvæði og stæðistími skipta máli við val á gjaldskrá (FR-2.1.1 og FR-2.1.2). BRG-2 lýsir ábyrgð notanda á að upplýsingar um ökutækið séu réttar (FR-2.2.1). |
+| Gæðakröfur | [QA-1 Nákvæmni skráningar](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/quality_attribute.md#qa-1) og [QA-2 Áreiðanleiki sendingar greiðslubeiðna](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/quality_attribute.md#qa-2) | QA-1 setur mælikvarða á nákvæmni skráningar við komu og brottför (FR-1.1.3 og FR-1.2.3). QA-2 fjallar um hvenær greiðslubeiðni á að berast eftir brottför og tengist því FR-2.2.2 um stofnun beiðninnar. |
+| Forsendur | [UI-2 Greiðslugátt/netbanki](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/external_interface.md#ui-2) og [issue #3](https://github.com/BaliVeselaj204/HBV301G-Verkefni6/issues/3) | **TBD (FR-2.2.2).** TBD (FR-2.2.2). Bali og Kristinn bera sameiginlega ábyrgð á að staðfesta hvernig kerfið sendir stofnaða greiðslubeiðni til greiðsluþjónustunnar. |
