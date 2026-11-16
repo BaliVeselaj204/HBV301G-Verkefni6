@@ -10,7 +10,7 @@ FR-2.1.1
 [FR-2.1.1 í verkefni 1](https://github.com/BaliVeselaj204/HBV301G-Verkefni1/blob/main/SRS/functional_requirement.md#fr-211)
 
 ## SRS-staðsetning
-2.3 Greiðslustjórnun – [SRS-yfirlit](../SRS-yfirlit.md)
+1.3 Útreikningur stæðistíma – [SRS-yfirlit](../SRS-yfirlit.md)
 
 ## Krafa eftir yfirferð
 Kerfið skal reikna lengd stæðistíma út frá þeim tíma sem líður frá skráðum komutíma til skráðs brottfarartíma í sömu talningu.

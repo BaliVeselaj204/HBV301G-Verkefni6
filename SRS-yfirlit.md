@@ -10,8 +10,9 @@ lesenda. Þetta er yfirlit; ekki þarf fullbúna SRS-skýrslu.
 | --- | --- | --- |
 | 1.1 Skráning við komu | [FR-1.1.3](requirements/FR-1.1.3.md) | Krafan á heima undir „Skráning við komu“ því hún lýsir hvenær virk talning er stofnuð og hvaða upplýsingar eru skráðar við komu ökutækis. |
 | 1.2 Skráning við brottför | [FR-1.2.2](../HBV301G-Verkefni6/requirements/FR-1.2.2.md) | Krafan á heima hér því hún lýsir því hvernig kerfið notar skráningarnúmer ökutækis til að finna virka talningu við brottför. |
+| 1.3 Útreikningur stæðistíma | [FR-2.1.1](requirements/FR-2.1.1.md) | Krafan lýsir því hvernig lengd stæðistíma er reiknuð út frá komu- og brottfarartíma sömu talningar. |
 | 2.2 ökutækjastjórnun| [FR-2.2.1](../HBV301G-Verkefni6/requirements/FR-2.2.1.md) | Krafan fjallar um tengingu ökutækja við notandareikninga og á því heima undir ökutækjastjórnun |
-| 2.3 Greiðslustjórnun | [FR-2.1.1](requirements/FR-2.1.1.md) | Krafan lýsir því hvernig kerfið reiknar lengd stæðistíma sem grunn að útreikningi stæðisgjalds. |
+
 
 ## Tengdar upplýsingar
 
